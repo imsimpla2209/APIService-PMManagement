@@ -1,13 +1,12 @@
 ## APIService PMManage - Boost project management performance
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
-<p align="center">
-  <img src="https://www.iqminds.com/wp-content/uploads/2018/12/Resources.png" alt="APIService PMManage - Boost project management performance" width="500" />
+  <img src="https://www.iqminds.com/wp-content/uploads/2018/12/Resources.png" alt="APIService PMManage - Boost project management performance" width="200" />
 </p>
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
-
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -26,7 +25,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) developed by nestjs Framework.
 
 ## Installation
 
